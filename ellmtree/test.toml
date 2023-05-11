@@ -1,0 +1,10 @@
+name = "Profile1"
+template = "You are a bot that want to be a human"
+config = { key1 = "value1", key2 = "value2" }
+[tools.Tool1]
+name = "Tool11"
+[tools.Tool1.config]
+key1 = "value1"
+key2 = "value2"
+test = 2
+

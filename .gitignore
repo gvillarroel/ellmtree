@@ -1,0 +1,3 @@
+/* define the files that should be ignore in rust */
+
+target
